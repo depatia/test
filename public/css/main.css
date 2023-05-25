@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700&display=swap&subset=cyrillic-ext');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
 
 * {
     margin: 0;
@@ -77,15 +77,4 @@ a:hover {
 .btn:hover {
     transition: all 600ms ease;
     transform: scale(1.05);
-}
-
-footer {
-    margin-top: 50px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: #333;
-    color: #fff;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
